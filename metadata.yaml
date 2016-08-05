@@ -1,0 +1,33 @@
+_repo: Last-Poems-by-A.-E.-Housman_7848
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Housman, A. E. (Alfred Edward)
+    aliases:
+    - Housman, Alfred Edward
+    - Houseman, A. E. (Alfred Edward)
+    birthdate: 1859
+    deathdate: 1936
+    gutenberg_agent_id: '1852'
+    url: http://www.gutenberg.org/2009/agents/1852
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Edward_Housman
+description: "Last Poems (1922) is the second and last of the two volumes of poems\
+  \ which A. E. Housman published during his lifetime. The first, and better-known,\
+  \ is A Shropshire Lad (1896).\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7848'
+  wikidata: Q6494580
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+- GITenberg
+title: Last Poems by A. E. Housman
+url: http://www.gutenberg.org/ebooks/7848
+wikipedia:
+- https://en.wikipedia.org/wiki/Last_Poems
